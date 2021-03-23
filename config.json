@@ -1,0 +1,12 @@
+{
+  "mongo_url": "",
+  "discord_webhook_urls": [
+    ""
+  ],
+  "nodes": [
+    ""
+  ],
+  "errorToSwitch": 5,
+  "creator_to_skip": []
+}
+
